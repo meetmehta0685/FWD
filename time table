@@ -1,0 +1,100 @@
+<html>
+    <head>
+        <title>TIME TABLE</title>
+    </head>
+    <body>
+        <table border="solid">
+            <tr>
+                <td colspan="6" align="center">Faculty of Engineering Sciences and Technology</td>
+            </tr>
+            <tr>
+                <td colspan="6" align="center">Semester II - Computer Science and Engineering (CSE-C)-AIML</td>
+
+            </tr>
+            <tr>
+                <td colspan="5" align="left">Classroom No : 203</td>
+                <td>w.e.f 18/01/2024</td>
+                
+            </tr>
+            <tr>
+                <td align="center">Time</td>
+                <td align="center">Monday</td>
+                <td align="center">Tuesday</td>
+                <td align="center">Wednesday</td>
+                <td align="center" >Thursday</td>
+                <td align="center">Friday</td>
+            </tr>
+            <tr>
+                <td align="center">9:10 to 10:00</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center">10:00 to 10:50</td>
+                <td></td>
+                <td></td>
+                <td align="center">HV(CC)</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td align="center">10:50 to 11:00</td>
+                <td colspan="5" align="center">Break</td>
+            </tr>
+            <tr>
+                <td align="center">11:00 to 11:50</td>
+                <td align="center">DS(RL)</td>
+                <td rowspan="2" align="center">C2-MATHS-2(VM) <br>C3-PP(ND)</td>
+                <td align="center">AP(SJ)</td>
+                <td align="center">AP(SJ)</td>
+                <td align="center">DS(RL)</td> 
+
+            </tr>
+            <tr>
+                <td align="center">11:50 to 12:40</td>
+                <td align="center">AP(SJ)</td>
+                <td align="center">MATHS-2(TB)</td>
+                <td align="center">DS(RL)</td>
+                <td align="center">FWD(KK)</td>
+
+            </tr>
+            <tr>
+                <td align="center"> 12:40 to 13:30</td>
+                <td colspan="5" align="center">LUNCH</td>
+            </tr>
+            <tr>
+                <td align="center">13:30 to 14:20</td>
+                <td align="center">PP(RJ)</td>
+                <td align="center">PP(RJ)</td>
+                <td rowspan="2" align="center">C3-MATHS-2(MB) <br>C2-PP(ND)</td>
+                <td align="center">FWD(KK)</td>
+                <td rowspan="2" align="center">C1-MATHS-(MB) <br>C4-PP(ND)</td>
+            </tr>
+            <tr>
+                <td align="center">14:20 to 15:10</td>
+                <td align="center">MATHS-2(AB)</td>
+                <td align="center">FWD(KK)</td>
+                <td align="center">MATHS-2(AB)</td>
+            </tr>
+            <tr>
+                <td align="center">15:10 to 15:30</td>
+                <td colspan="5" align="center">BREAK</td>
+            </tr>
+            <tr>
+                <td align="center">15:30 to 16:20</td>
+                <td rowspan="2" align="center">C4-MATHS-2(MB) <br>C1-PP(ND)</td>
+                <td rowspan="2" align="center">C1-AP(DP) <br>C2-PP(ND) <br>C3-DS(RJ) <br>C4-FWD(VF)</td>
+                <td rowspan="2" align="center">C1-FWD(VF) <br>C2-AP(DP) <br>C3-PP(ND) <br>C4-DS(RL) </td>
+                <td rowspan="2" align="center">C1-DS(RL) <br>C2-FWD(VF) <br>C3-AP(DP) <br>C4-PP(RJ) </td>
+                <td rowspan="2" align="center">C1-PP(ND) <br>C2-DS(RL) <br>C3-FWD(VF) <br>C4-AP(DP) </td>
+
+            </tr>
+            <tr>
+                <td align="center">16:20 to 17:10</td>
+            </tr>
+        </table>
+    </body>
+</html>
