@@ -1,0 +1,48 @@
+<html>
+<head>
+    
+    
+    <title>Registration Form</title>
+</head>
+<body bgcolor="red">
+    <Form>
+        <h1><font color="Yellow">Registration Form</font></h1>
+        First Name:<input type="text">
+         <br> <br>Last name
+        <input type="text">
+        <br><br>
+
+        
+        Please select gender : <br>
+        Female<input type="radio" name="Gender" id="Male">
+        Male<input type="radio" name="Gender" id="Female">
+        Other <input type="radio" name="Gender" id="other">
+        <br><br>
+        <input type="date" name="dob" id="dob">
+
+
+
+        <br><br><br>
+    Have you passed your 10+2 prerequisite class: <br>
+        <input type="Checkbox" name="Yes" checked>Yes
+        <input type="checkbox">No   
+        <br><br>
+
+        
+        Select Course
+        <select name="program" id="program">
+            <option value="cse">B. Tech</option>
+            <option value="cse">MBA</option>
+            <option value="cse">PHD</option>
+            <option value="cse">M. Tech</option>
+        </select>                
+
+        <br>Please write down Hobbies : <br>
+        <textarea name="" id="" cols="30" rows="10"></textarea>
+        <br><br>
+        <button type="submit">Submit</button>
+
+        
+    </Form>
+</body>
+</html>
